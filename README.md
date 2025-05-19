@@ -1,6 +1,6 @@
 # 🛎️ Notification Service - Spring Boot Backend
 
-This is a backend Notification Service built using Java Spring Boot as part of an internship assignment. The application allows sending and retrieving notifications for users via in-app and SMS types (email not implemented for security and demo scope).
+This is a backend Notification Service built using Java Spring Boot as part of an internship assignment. The application allows sending and retrieving notifications for users via in-app and SMS types.
 
 ---
 
